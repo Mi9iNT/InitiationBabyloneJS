@@ -1,0 +1,5 @@
+{"producer":{"name":"Blender","version":"3.2.0","exporter_version":"2.93.5","file":"Terra.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
+"meshes":[{"name":"Terra","id":"Terra","position":[-1.2878,0.0823,-0.0277],"rotation":[0,0,0],"scaling":[3.0792,3.0792,3.0792],"isVisible":false,"isEnabled":true}],
+"cameras":[{"name":"Camera","id":"Camera","position":[17.9866,0,0],"rotation":[0,-1.5708,0],"fov":0.6911,"minZ":0.1,"maxZ":100,"ellipsoid":[0.2,0.9,0.2],"type":"UniversalCamera"}],"activeCameraID":"Camera"
+}
